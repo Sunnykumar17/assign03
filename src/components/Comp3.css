@@ -1,0 +1,28 @@
+.card{
+    width: 350px;
+    height: 400px;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+    margin: 40px auto;
+    padding: 30px;
+}
+.img{
+    border-radius: 75px;
+}
+.card-list{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.card-follow{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 30px;
+}
